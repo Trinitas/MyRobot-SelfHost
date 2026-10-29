@@ -1,0 +1,3 @@
+# Everything the tool downloads or creates
+data/
+__pycache__/
